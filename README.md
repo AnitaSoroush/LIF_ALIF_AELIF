@@ -9,3 +9,5 @@
 [Report.pdf](https://github.com/AnitaSoroush/LIF_ALIF_AELIF/blob/main/Report.pdf) contains:
 * A complete explanation of required mathematics.
 * The results of the project.
+
+[next project of computatuinal Neuroscience](https://github.com/AnitaSoroush/NeuronPopulationsAndDecisionMaking)
