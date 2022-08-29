@@ -10,4 +10,4 @@
 * A complete explanation of required mathematics.
 * The results of the project.
 
-[next project of computatuinal Neuroscience](https://github.com/AnitaSoroush/NeuronPopulationsAndDecisionMaking)
+[next project of computatuinal Neuroscience](https://github.com/AnitaSoroush/NeuralPopulationsAndDecisionMaking)
